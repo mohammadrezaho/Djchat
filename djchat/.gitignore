@@ -1,5 +1,5 @@
 venv/
-.vscode/
+.vscode
 db.sqlite3
 .env
 .DB_Store
